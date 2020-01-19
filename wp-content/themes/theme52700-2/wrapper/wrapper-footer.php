@@ -13,11 +13,7 @@
 		</div>
 	</div>
 
-	<div class="footer_map">
-		<div data-motopress-type="static" data-motopress-static-file="static/static-map.php">
-			<?php get_template_part("static/static-map"); ?>
-		</div>
-	</div>
+
 	
 <?php } ?>
 

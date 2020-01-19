@@ -2708,4 +2708,4 @@ html.ie8 .parallax-slider .parallaxNextBtn { margin:0 0 0 -420px; }
 	opacity:0;
 	filter:alpha(opacity=0);
 }
-";s:5:"files";a:4:{s:62:"/var/www/html/mejora/wp-content/themes/theme52700-2/style.less";i:1579415513;s:81:"/var/www/html/mejora/wp-content/themes/theme52700-2/bootstrap/less/variables.less";i:1579418049;s:78:"/var/www/html/mejora/wp-content/themes/theme52700-2/bootstrap/less/mixins.less";i:1579415513;s:93:"/var/www/html/mejora/wp-content/themes/theme52700-2/parallax-slider/less/parallax-slider.less";i:1579415513;}s:7:"updated";i:1579418050;}
+";s:5:"files";a:4:{s:62:"/var/www/html/mejora/wp-content/themes/theme52700-2/style.less";i:1579415513;s:81:"/var/www/html/mejora/wp-content/themes/theme52700-2/bootstrap/less/variables.less";i:1579425502;s:78:"/var/www/html/mejora/wp-content/themes/theme52700-2/bootstrap/less/mixins.less";i:1579415513;s:93:"/var/www/html/mejora/wp-content/themes/theme52700-2/parallax-slider/less/parallax-slider.less";i:1579415513;}s:7:"updated";i:1579425503;}
